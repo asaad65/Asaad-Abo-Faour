@@ -38,7 +38,7 @@ export default function Home() {
 />
 
     <div className=" w-full flex justify-between items-center px-6 py-4 md:py-5 bg-black z-50 fixed border-b-2 border-gray-600">
-          <span className=" rounded-4xl w-25 responsWidth"><img src="..\imegs\Logo.png"></img></span>
+          <span className=" rounded-4xl w-25 responsWidth"><img src="..\imegs\logo.png"></img></span>
           <div className="flex justify-center items-center gap-8 text-white cursor-pointer rsponsLink">
             <Link href="#Home">
             <p className="link">Home</p>
