@@ -7,8 +7,8 @@ export default function Projects(){
         src:'../imegs/protofily.png',
         description: "A personal website where I showcase my work",
         technologies:['Next.js','Tailwind','js','css','html'],
-        github: "",
-        liveDemo: ""
+        github: "https://github.com/asaad65/Asaad-Abo-Faour",
+        liveDemo: "https://asaad-abo-faour.vercel.app"
     }, {
         id : 1,
         name: "E-commerce store",
