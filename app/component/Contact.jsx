@@ -23,7 +23,10 @@ export default function Contact() {
         <span className="text-gray-500 text-sm mb-2 md:text-2xl sm:text-2xl lg:text-lg">Let’s turn your vision into reality — message me!</span>
     </div>
     <div className=" text-2xl text-gray-500 mt-8">
-      <h1 className="hover:ml-2 duration-150 transition-all cursor-pointer hover:border-b-2 border-gray-500 inline-block hover:text-green-500 hover:border-green-500">Asaad Abo Faour</h1><br/>
+      <Link href={'https://asaad-abo-faour.vercel.app'}>
+           <h1 className="hover:ml-2 duration-150 transition-all cursor-pointer hover:border-b-2 border-gray-500 inline-block hover:text-green-500 hover:border-green-500">Asaad Abo Faour</h1><br/>
+      </Link>
+     
       <Link href="mailto:asaad_abo_faour@outlook.com">
       <h1 className=" text-xl md:text-2xl hover:ml-2 duration-150 transition-all cursor-pointer hover:border-b-2 border-gray-500 inline-block my-5 hover:text-green-500  hover:border-green-500">asaad_abo_faour@outlook.com</h1><br/>
       </Link>
