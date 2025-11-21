@@ -135,7 +135,7 @@ body{
 
 
 .loader {
-  width: 320px;
+  /* width: 320px; */
   height: 22px;
   border-radius: 20px;
   color: #22ff00;
