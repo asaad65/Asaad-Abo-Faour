@@ -18,7 +18,7 @@ export default function ClientLoader({ children }) {
 
   if (!isReady) {
     return (
-      <div className='flex justify-center items-center m-auto max-w-3xl h-dvh'>
+      <div className='flex justify-center items-center mx-auto my-5 max-w-3xl h-dvh'>
 
         <div className="loader w-full"></div>
        
