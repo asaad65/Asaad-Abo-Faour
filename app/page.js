@@ -79,7 +79,10 @@ export default function Home() {
          <Link href="#Contact">
         <button className="btn">Her Me</button>
          </Link>
-          <button className="btn ml-3">Download CV</button>
+         <a href="..\cv\Asaad-Abo-Faour.pdf" download>
+             <button className="btn ml-3">Download CV</button>
+         </a>
+         
      </div>
        <div className=" border-2 border-green-500 rounded-full">
      
