@@ -35,7 +35,17 @@ export default function Projects(){
         technologies:['react','js','css','html'],
         github: "https://github.com/asaad65/Tasks",
         liveDemo: "https://asaad65.github.io/Tasks/"
+    },
+    {
+        id : 4,
+        name: "Social networking",
+        src:'../imegs/Social-networking.png',
+        description: "It features the ability to add, edit, delete, and filter tasks.",
+        technologies:['html','js','Authentication','bootstrap','css'],
+        github: "https://github.com/asaad65/Social-networking/",
+        liveDemo: "https://asaad65.github.io/Social-networking/"
     }
+
  ]
     
     const project = projects.map(p=>{
